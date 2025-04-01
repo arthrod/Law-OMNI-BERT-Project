@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "d3": "^5.14.1",
+    "d3": "^7.9.0",
     "mdbreact": "^4.22.1",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
